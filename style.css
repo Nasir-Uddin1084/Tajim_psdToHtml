@@ -23,6 +23,14 @@ ul {
 .navbar-light .navbar-nav .nav-link:hover {
 	color: #07c8c0;
 }
+.nav-custom {
+	position: fixed;
+	width: 100%;
+	z-index: 150;
+}
+.nav-bg {
+	background: #6b6a6e;
+}
 /* menu part css end */
 /* bannert css part start */
 #bannert-part {
@@ -77,15 +85,12 @@ ul {
 	padding: 15px 30px;
 	color: #07c8c0;
 	font-weight: bold;
+	text-decoration: none;
 }
-.navbar {
-	position: fixed;
-	width: 100%;
-	z-index: 100;
-}
+
 .banner-slider {
 	position: relative;
-	z-index: 110;
+	z-index: 100;
 }
 /* banner part (dots) start */
 .slick-dots {
