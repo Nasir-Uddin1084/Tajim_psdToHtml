@@ -157,6 +157,7 @@ button:focus {
 	text-transform: uppercase;
 	margin-top: 10px;
 	display: inline-block;
+	text-decoration: none;
 }
 /* about-part css end */
 
@@ -328,6 +329,7 @@ button:focus {
 	color: #07c8c0;
 	font-weight: bold;
 	text-transform: uppercase;
+	text-decoration: none;
 }
 .team-slider {
 	position: relative;
@@ -359,6 +361,7 @@ button:focus {
 	color: #07c8c0;
 	font-weight: bold;
 	text-transform: uppercase;
+	text-decoration: none;
 	margin-top: 70px;
 	display: inline-block;
 }
